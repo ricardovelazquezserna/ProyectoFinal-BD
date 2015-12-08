@@ -1,0 +1,12 @@
+div#contenedor{
+   width: 80%;
+   padding: 10px;
+   margin: auto auto auto auto;
+   max-width: 600px;
+}
+input{
+    margin: 2% auto 2% auto;
+}
+textarea{
+     margin: 2% auto 2% auto;
+}

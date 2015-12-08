@@ -1,0 +1,10 @@
+select#procedimientos{
+   
+    width: 80%;
+    display: inline-block;
+}
+div#contenedor{
+   padding: 10px;
+   margin: 5% auto auto auto;
+   max-width: 600px;
+}

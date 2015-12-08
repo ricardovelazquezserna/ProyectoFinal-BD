@@ -1,0 +1,38 @@
+input{
+    margin: auto auto 3% auto;
+}
+select{
+     margin: auto auto 3% auto;
+}
+select#ordenTarea{
+    margin: auto auto 3% 10%;
+    width: 40%;
+    display: inline-block;
+    text-align: center;
+}
+select#subordenTarea{
+    margin: auto 0 3% 5%;
+    width: 40%;
+    display: inline-block;
+    text-align: center;
+}
+textarea{
+    margin: auto auto 3% auto;
+    resize: none;
+}
+input#tiempoTarea{
+    width: 90%; 
+    display: inline-block;
+}
+div#contenedor{
+   padding: 10px;
+   margin: 5% auto auto auto;
+   max-width: 600px;
+}
+h1{
+   margin: auto auto 4% auto;
+   text-align: center;    
+}
+label{
+    margin: auto auto auto 4%;
+}

@@ -20,8 +20,9 @@
         <li class="dropdown" >
           <a class="dropdown-toggle" data-toggle="dropdown" href="#">Procedimientos<span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a id="crear" href="http://localhost/ProyectoFinal_BD/procedimiento.php">Agregar</a></li>
+           <li><a id="crear" href="http://localhost/ProyectoFinal_BD/procedimiento.php">Agregar</a></li>
             <li><a id="ver" href="http://localhost/ProyectoFinal_BD/ver.php">Ver</a></li>
+              <li><a id="ver" href="http://localhost/ProyectoFinal_BD/status.html">Status</a></li>
            
           </ul>
         </li>

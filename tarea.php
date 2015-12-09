@@ -12,7 +12,7 @@
         <nav class="navbar navbar-inverse">
             <div class="container-fluid">
                 <div class="navbar-header">
-                    <a class="navbar-brand" href="#">Softtek</a>
+                    <a class="navbar-brand" href="http://localhost/ProyectoFinal_BD/index.php">Softtek</a>
                 </div>
                 <div>
                     <ul class="nav navbar-nav">
@@ -20,8 +20,9 @@
                         <li class="dropdown">
                             <a class="dropdown-toggle" data-toggle="dropdown" href="#">Procedimientos<span class="caret"></span></a>
                             <ul class="dropdown-menu">
-                                <li><a id="crear" href="#">Agregar</a></li>
-                                <li><a id="ver" href="#">Ver</a></li>
+                                 <li><a id="crear" href="http://localhost/ProyectoFinal_BD/procedimiento.php">Agregar</a></li>
+            <li><a id="ver" href="http://localhost/ProyectoFinal_BD/ver.php">Ver</a></li>
+              <li><a id="ver" href="http://localhost/ProyectoFinal_BD/status.html">Status</a></li>
 
                             </ul>
                         </li>
